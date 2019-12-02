@@ -7,4 +7,4 @@ Further R tutorials will be added.
 
 ## Examples
 I toyed around with the README to illustrate how commits work.
-Here, I deleted a sentence and inserted this one instead, which you can view in this commit.
+Here, I deleted a sentence and inserted this one instead, which you can view in this [commit](https://github.com/einGlasRotwein/tutorial-klips/commit/da900bedbcc1151a92622589f1aa2d65e2ca6d32).
