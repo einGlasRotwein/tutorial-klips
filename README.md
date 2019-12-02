@@ -5,4 +5,6 @@ A repository serving as example for the cinical psychology GitHub tutorial.
 This repository belongs to the private Wiki of the Clinical Psychology Department at CIMH Mannheim and is used to showcase working with GitHub.
 Further R tutorials will be added.
 
-I'll type this sentence just to delete it later.
+## Examples
+I toyed around with the README to illustrate how commits work.
+Here, I deleted a sentence and inserted this one instead, which you can view in this commit.
